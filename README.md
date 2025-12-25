@@ -1,1 +1,1 @@
-# Multiplication_Table
+It is a multiplication table.
